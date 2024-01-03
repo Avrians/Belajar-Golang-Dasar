@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main15() {
 	// Membuat map kosong dan mengsi nya secara manual
 	// var person map[string]string = map[string]string{}
 	// person["name"] = "Eko"
