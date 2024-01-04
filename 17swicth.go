@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main17() {
 	name := "Budi"
 
 	switch name {
