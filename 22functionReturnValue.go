@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main22() {
 	result := getHello("Eko")
 	fmt.Println(result)
 	fmt.Println(getHello("Budi"))
