@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func main19(){
 	// Break
 	for i := 0; i < 5; i++ {
 		if i == 5	{
