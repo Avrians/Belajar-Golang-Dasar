@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func main16(){
 	name := "Budi"
 
 	if name == "Joko" {
