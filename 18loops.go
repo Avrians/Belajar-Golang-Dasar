@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 
-func main(){
+func main18(){
 	counter := 0
 
 	for counter <= 10 {
