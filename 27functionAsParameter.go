@@ -20,7 +20,7 @@ func spamFilter(name string) string	{
 	}
 }
 
-func main()	{
+func main27()	{
 	sayHelloWithFilter("Anjing", spamFilter)
 
 	filter := spamFilter
