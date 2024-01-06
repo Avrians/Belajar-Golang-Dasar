@@ -21,7 +21,7 @@ func runApp(error bool)  {
 	// fmt.Println("terjadi panic", message)
 }
 
-func main()  {
+func main32()  {
 	runApp(true)
 	fmt.Println("OK")
 }
