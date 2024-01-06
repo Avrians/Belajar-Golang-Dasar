@@ -12,7 +12,7 @@ func registerUser(name string, blacklist Blacklist) {
 	}
 }
 
-func main()  {
+func main28()  {
 	blacklist := func(name string) bool {
 		return name == "anjing"
 	}
