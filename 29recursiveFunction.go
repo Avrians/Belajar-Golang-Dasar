@@ -20,7 +20,7 @@ func factorialRecursive(value int) int {
 	}
 }
 
-func main()  {
+func main29()  {
 	fmt.Println(factorialLoop(10))
 	fmt.Println(factorialRecursive(10))
 }
