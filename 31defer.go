@@ -15,7 +15,7 @@ func runApplication()  {
 	// diganti dengan yang diawal function
 }
 
-func main()  {
+func main31()  {
 	// Defer
 	runApplication()
 }
