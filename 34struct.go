@@ -11,7 +11,7 @@ func (customer Customer) sayHello(name string){
 	fmt.Println("Hello", name, "My name is", customer.Name)
 }
 
-func main()  {
+func main34()  {
 	var customer1 Customer
 	customer1.Name = "John"
 	customer1.Address = "LosAngeles"
