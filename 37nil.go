@@ -10,7 +10,7 @@ func NewMap(name string) map[string]string {
 	}
 }
 
-func main()  {
+func main37()  {
 	data := NewMap("")
 	fmt.Println(data["name"])
 
