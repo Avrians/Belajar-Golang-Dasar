@@ -2,11 +2,12 @@ package main
 
 import "fmt"
 
-type Address struct {
-	City, Province, Country string
-}
+// di off dulu karna di pake di 40asteriskOperator.go
+// type Address struct {
+// 	City, Province, Country string
+// }
 
-func main() {
+func main39() {
 	address1 := Address{"Subang", "Jawa Barat", "Indonesia"}
 	address2 := address1 // copy address1 ke address2
 
