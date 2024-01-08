@@ -2,11 +2,12 @@ package main
 
 import "fmt"
 
-type Address struct {
-	City, Province, Country string
-}
+// di off dulu karna di pake di 42pointerFunction.go
+// type Address struct {
+// 	City, Province, Country string
+// }
 
-func main() {
+func main41() {
 	var alamat1 *Address = &Address{}
 	var alamat2 *Address = new(Address) // jika data kosong, maka bisa menggunakan seperti ini
 	// var alamat2 *Address = new(Address) // sama dengan alamat1
