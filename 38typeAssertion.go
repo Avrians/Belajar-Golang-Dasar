@@ -6,7 +6,7 @@ func random() any {
 	return true
 }
 
-func main()  {
+func main38()  {
 	var result any = random()
 	// var resultString string = result.(string)
 	// fmt.Println(resultString)
