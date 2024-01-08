@@ -2,12 +2,14 @@ package main
 
 import "fmt"
 
-type Address struct {
-	City, Province, Country string
-}
+
+// di off dulu karna di pake di 41operatorNew.go
+// type Address struct {
+// 	City, Province, Country string
+// }
 
 
-func main() {
+func main40() {
 	var address1 Address = Address{"Subang", "Jawa Barat", "Indonesia"}
 	var address2 *Address = &address1 // pointer ke address1
 	address2.City = "Bandung"
