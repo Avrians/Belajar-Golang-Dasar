@@ -10,7 +10,7 @@ func ChangeCountryToIndonesia(address *Address)  {
 	address.Country = "Indonesia"
 }
 
-func main()  {
+func main42()  {
 	address := Address{}
 	ChangeCountryToIndonesia(&address)
 	fmt.Println(address)
