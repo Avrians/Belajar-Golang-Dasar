@@ -10,7 +10,7 @@ func (man *Man) Married(){
 	man.Name = "Mr. " + man.Name
 }
 
-func main()  {
+func main43()  {
 	eko := Man{"Eko"}
 	eko.Married()
 
