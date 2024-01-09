@@ -5,6 +5,6 @@ import "fmt"
 import "belajar-golang-dasar/database"
 import _"belajar-golang-dasar/internal"
 
-func main() {
+func main45() {
 	fmt.Println(database.GetDatabase())
 }
