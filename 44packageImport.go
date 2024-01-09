@@ -3,7 +3,7 @@ package main
 import "belajar-golang-dasar/helper"
 import "fmt"
 
-func main()  {
+func main44()  {
 	result := helper.SayHello("Eko")
 	fmt.Println(result)
 
