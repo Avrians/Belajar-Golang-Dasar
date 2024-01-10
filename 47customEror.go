@@ -32,7 +32,7 @@ func SaveData (id string, data any) error {
 	return nil
 }
 
-func main()  {
+func main47()  {
 	err := SaveData("Eko", nil)
 	if err != nil {
 		// terjadi error
