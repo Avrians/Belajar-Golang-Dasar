@@ -12,7 +12,7 @@ func Pembagian(nilai int, pembagi int) (int, error) {
 	}
 }
 
-func main() {
+func main46() {
 	result, err := Pembagian(100, 0)
 	if err == nil {
 		fmt.Println("Hasil", result)
